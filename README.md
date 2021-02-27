@@ -1,2 +1,2 @@
 # Estudos e Testes
- Repositório de estudos
+// Configurando Github e fazendo testes para verificar se a integração está funcionando...
