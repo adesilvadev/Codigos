@@ -1,2 +1,2 @@
-# Estudos e Testes
+# GitHub Desktop for Windows
 // Configurando Github e fazendo testes para verificar se a integração está funcionando...
